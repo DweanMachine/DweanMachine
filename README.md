@@ -1,8 +1,7 @@
 - Hi, I’m Drexel Wean (@DweanMachine)
 - I’m interested in github.com
-- I’m currently learning C/C++/Python/JS
+- I’m currently learning C, C++, Python, & JS
 - How to reach me: djwean12@gmail.com
-- Fun fact: I like dogs.
 
 <!---
 DweanMachine/DweanMachine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
